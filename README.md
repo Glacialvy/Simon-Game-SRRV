@@ -1,2 +1,2 @@
 # Simon Game SRRV
- Simon game project written in C language made on Arduino Uno microcontroller using Wokwi online simulator
+ Simon game University project made on Arduino Uno microcontroller using Wokwi online simulator
